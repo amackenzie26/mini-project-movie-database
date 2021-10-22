@@ -1,0 +1,24 @@
+{
+  "name": "mini-project-movie-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amackenzie26/mini-project-movie-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amackenzie26/mini-project-movie-database/issues"
+  },
+  "homepage": "https://github.com/amackenzie26/mini-project-movie-database#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2"
+  }
+}
